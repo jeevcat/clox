@@ -14,5 +14,5 @@ debug_log_gc = []
 debug_stress_gc = []
 
 [dependencies]
-num_enum = "0.5"
+num_enum = "0.7"
 strum = { version = "0.23", features = ["derive"] }
